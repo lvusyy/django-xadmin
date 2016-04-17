@@ -117,7 +117,7 @@ Changelogs
 Online Group
 ------------
 
--  QQ群 : 282936295
+-  QQ Qun : 282936295
 
 Run Demo Locally
 ----------------
